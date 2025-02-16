@@ -1,4 +1,4 @@
-Hello Teacher! This my Assignment 1
+Hello Teacher! This my Assignment 1.
 I explained step-by-step what I did to solve those problems anad even added screenshots for more proofs!
 
 Here is the link to my picoCTF profile:
